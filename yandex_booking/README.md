@@ -1,7 +1,7 @@
 [Перейти на сайт GitHub](https://github.com/StdCoutPy/YandexBooking/).
 
 
-[Перейти на сайт GitLab](https://contest.gitlab.yandexcloud.net/y4hack/18035-solution/).
+[Перейти на сайт GitLab](https://contest.gitlab.yandexcloud.net/problems/200899-2026-01-21-Jwedh9plJ4/go/solutions/18035-solution).
 # Booking Service (Backend)
 
 Сервис для управления бронированием мест, написанный на **Go** в рамках отбора на стажировку в Яндекс.
